@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+This is a simple React.JS project for getting the current weather of any city. API used for this project was obtained from https://openweathermap.org/ .<br/>
+This is first time I tried to fetch API on React.JS projects. Also this is my first experience with bootstrap.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
